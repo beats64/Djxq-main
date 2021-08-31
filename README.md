@@ -1,7 +1,7 @@
 ### VPS一键脚本（不兼容德鸡本身与WARP）
 
 ```
-wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/ygkkk/Djxq/Eure.sh && chmod +x Eure.sh && ./Eure.sh
+wget -N --no-check-certificate https://github.com/beats64/Djxq-main/raw/main/Eure.sh && chmod +x Eure.sh && ./Eure.sh
 ```
 
 安装菜单：
